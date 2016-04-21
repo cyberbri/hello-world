@@ -2,3 +2,8 @@ Main () {}
 
 Func1 () {}
 
+Func2 () {}
+    if () {}
+  else () {}
+
+
