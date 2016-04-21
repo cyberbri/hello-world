@@ -6,4 +6,8 @@ Func2 () {}
     if () {}
   else () {}
 
+Func3()   {}
+
+var balance = 500
+
 
